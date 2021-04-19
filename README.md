@@ -1,10 +1,12 @@
 <font size=4>
-# I'm H4 header.
+# I'm H4 header.  
+
 </font>
 <font size=2>
-## I'm H2 header
+## I'm H2 header  
+
 </font>
-This is a [link](http://i.chaoxing.com/)  
+This is a ![link](http://i.chaoxing.com/)  
 bulleted list  
 
 * [MARKDOWN 2 in here](2.md)  
